@@ -1,0 +1,9 @@
+name: Profile README
+on: [push]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.ref == 'refs/heads/master' }}
+    steps:
+      - name: Deploy
+        uses: athul/waka-readme@v0.1.7
