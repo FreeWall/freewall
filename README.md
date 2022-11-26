@@ -1,3 +1,5 @@
+![](https://wakatime.com/badge/user/d694f266-3f1b-44cd-82b9-e9c093472e23.svg)
+
 <!--START_SECTION:waka-->
 
 ```text
