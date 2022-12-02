@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 51 mins  #################........   66.88 %
-PHP          3 hrs 11 mins   ####.....................   16.55 %
-Other        1 hr 6 mins     #........................   05.72 %
+TypeScript   12 hrs 51 mins  ###############..........   58.90 %
+PHP          5 hrs 27 mins   ######...................   24.97 %
+Other        1 hr 9 mins     #........................   05.29 %
 ```
 
 <!--END_SECTION:waka-->
