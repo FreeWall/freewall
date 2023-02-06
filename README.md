@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        29 hrs 49 mins  ########.................   33.30 %
-TypeScript                 29 hrs 33 mins  ########.................   33.00 %
-JSON                       8 hrs 13 mins   ##.......................   09.18 %
-JavaScript                 6 hrs 52 mins   ##.......................   07.68 %
-Other                      5 hrs 21 mins   #........................   05.98 %
+PHP                        29 hrs 49 mins  #########................   34.19 %
+TypeScript                 28 hrs 28 mins  ########.................   32.65 %
+JSON                       8 hrs 9 mins    ##.......................   09.36 %
+JavaScript                 6 hrs 48 mins   ##.......................   07.81 %
+Other                      5 hrs 7 mins    #........................   05.87 %
 ```
 
 <!--END_SECTION:waka-->
