@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      132 hrs 41 mins ###################......   74.93 %
-GraphQL         10 hrs 31 mins  #........................   05.95 %
-JSON            10 hrs 20 mins  #........................   05.84 %
-JavaScript      6 hrs 1 min     #........................   03.40 %
-Bash            5 hrs 3 mins    #........................   02.86 %
-Markdown        3 hrs 2 mins    .........................   01.72 %
+TypeScript      130 hrs 57 mins ###################......   75.24 %
+GraphQL         10 hrs 53 mins  ##.......................   06.26 %
+JSON            10 hrs 15 mins  #........................   05.89 %
+JavaScript      5 hrs 27 mins   #........................   03.14 %
+Bash            4 hrs 58 mins   #........................   02.86 %
+Other           2 hrs 52 mins   .........................   01.66 %
 ```
 
 <!--END_SECTION:waka-->
