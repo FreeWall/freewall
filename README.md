@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   98 hrs 12 mins  ####################.....   78.81 %
-Other        4 hrs 55 mins   #........................   03.95 %
-PHP          3 hrs 53 mins   #........................   03.13 %
-JavaScript   3 hrs 46 mins   #........................   03.03 %
-JSON         3 hrs 31 mins   #........................   02.83 %
+```txt
+TypeScript   93 hrs 17 mins  ###################......   77.26 %
+Other        5 hrs 32 mins   #........................   04.59 %
+JSON         4 hrs 10 mins   #........................   03.46 %
+PHP          3 hrs 53 mins   #........................   03.23 %
+JavaScript   3 hrs 44 mins   #........................   03.10 %
 ```
 
 <!--END_SECTION:waka-->
