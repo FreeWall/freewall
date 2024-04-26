@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    121 hrs 53 mins ####################.....   79.56 %
-JavaScript    5 hrs 45 mins   #........................   03.76 %
-JSON          4 hrs 51 mins   #........................   03.17 %
-YAML          4 hrs 12 mins   #........................   02.75 %
-Other         3 hrs 24 mins   #........................   02.22 %
+TypeScript    124 hrs 5 mins  #####################....   82.06 %
+JavaScript    5 hrs 53 mins   #........................   03.90 %
+JSON          4 hrs 4 mins    #........................   02.69 %
+Python        3 hrs 17 mins   #........................   02.17 %
+Bash          2 hrs 54 mins   .........................   01.92 %
 ```
 
 <!--END_SECTION:waka-->
