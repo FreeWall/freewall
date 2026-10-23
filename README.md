@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     69 hrs 44 mins        ############.............   46.02 %
-OpenSCAD       18 hrs 38 mins        ###......................   12.30 %
-Markdown       8 hrs 48 mins         #........................   05.81 %
-JSON           8 hrs 46 mins         #........................   05.79 %
-CSS            8 hrs 42 mins         #........................   05.75 %
+TypeScript     70 hrs 51 mins        ############.............   46.53 %
+OpenSCAD       17 hrs 38 mins        ###......................   11.59 %
+Markdown       9 hrs 21 mins         ##.......................   06.15 %
+CSS            8 hrs 42 mins         #........................   05.72 %
+JSON           8 hrs 34 mins         #........................   05.63 %
 ```
 
 <!--END_SECTION:waka-->
